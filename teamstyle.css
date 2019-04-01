@@ -1,0 +1,84 @@
+#Logo{
+  color: white;
+  font-family: "Times New Roman";
+  font-size: 100pt;
+  font-style: italic;
+  color: #551a8b;
+  text-shadow: 2px 2px 2px #6300a5;
+  text-align: left;
+  border: 5px dotted white;
+  padding: 5px;
+  background: black;
+  background-clip: border-box;  
+}
+* {
+	margin: 0px;
+	padding:0px;
+}
+li {
+	float: left;
+	list-style: none;
+	width: 25%;
+	color: #FFFFFF;
+	background: #8188AF;
+	font-size: 16pt;
+	font-family: "Times New Roman";
+	text-align: center;
+}
+li:hover {
+	color: black;
+	background: white;
+}
+#RobLog{
+	text-align: center;
+}
+body {
+background: #551a8b;
+text-align: center;
+}
+#main {
+width: 1300px;
+height: 6000x;
+background: #ead3ea;
+margin: 15px auto;
+border: dotted 2px #ff00ff;
+padding: 5px;
+}
+p{
+font-family: "Garamond";
+font-size: 18pt;
+text-align: left;
+color: #660066;
+margin: 18px auto;
+}
+h1{
+text-align: center;
+font-family: "Times New Roman";
+font-size: 26pt;
+font-style: italic;
+color: #551a8b;
+text-shadow: 2px 2px 2px #6300a5;
+margin: 5px auto;
+} 
+h2{
+font-size:19pt;
+text-align: left;
+font-style: italic;
+}
+h3{
+font-size:19pt;
+text-align: left;
+font-style: italic;
+}
+h4{
+font-size:19pt;
+text-align: left;
+font-style: italic;
+}
+h5{
+font-size:19pt;
+text-align: left;
+font-style: italic;
+}
+
+
