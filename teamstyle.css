@@ -20,26 +20,26 @@ li {
 	list-style: none;
 	width: 25%;
 	color: #FFFFFF;
-	background: #8188AF;
+	background: white;
 	font-size: 16pt;
 	font-family: "Times New Roman";
 	text-align: center;
 }
 li:hover {
 	color: black;
-	background: white;
+	background: #b4b0b0;
 }
 #RobLog{
 	text-align: center;
 }
 body {
-background: #551a8b;
+background: #cc77ea;
 text-align: center;
 }
 #main {
 width: 1300px;
-height: 6000x;
-background: #ead3ea;
+height: 2000x;
+background: white;
 margin: 15px auto;
 border: dotted 2px #ff00ff;
 padding: 5px;
